@@ -1,0 +1,10 @@
+Clases: Grupo de elementos que tiene un conjutno de caracteristicas.
+Es una plantilla o model que permite construir objetos.
+Objetos:Es algo que podemos visualizar, una cosa un dibujo.
+Metodos: Se refiere a lo como lo vamos hacer, como lo vamos a realizar.Es un procedimiento que se 
+sigue para consguir algo.
+Atributos: caracteristicas de una cosa u objeto.
+Sttersy getters: Son metodos set significa fijat y get obtener.
+Puntero: Es una variable que almacena la direccion de memoria de un objeto.
+Constructor:Es un metodo se utiliza para inicializar un objeto ya creado
+GitHub: 
